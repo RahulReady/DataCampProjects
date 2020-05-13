@@ -10,7 +10,7 @@ There are many ingredients in todays cosmetics. It would be nice to see which co
 
 ## Steps taken
 <ul>
-<li>Understanding data/li>
+<li>Understanding data</li>
 <li>Subsetting data</li>
 <li>Tokenizing words and encoding words</li>
 <li> Creating a document term matrix</li>
