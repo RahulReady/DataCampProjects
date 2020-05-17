@@ -3,6 +3,11 @@
 
 
 ## Project and high level topics covered
+### Darwin Book Recommendations
+* Tokenize/ Stemming
+* tf-idf
+* Bag of Words
+* Hierarchical clustering
 
 ### Disney Movie Box Office Success
 * Groupby operations
