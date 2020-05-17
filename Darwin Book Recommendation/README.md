@@ -1,6 +1,6 @@
 # Charles Darwin Book Recommendations
 ## Motivation
-
+Given that Darwin was quite a busy man, it would be interesting to see the types of books he wrote and read and compared how similar they are. If someone liked a certain book, this project would suggest other books that are closest in similarity to the selected book.
 
 ## Topics Covered
 

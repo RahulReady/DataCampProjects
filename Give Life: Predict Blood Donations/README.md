@@ -3,6 +3,15 @@
 
 
 ## Project and high level topics covered
+
+#### Each project has an associated README.md file for the highlights of that project.
+
+## Blood Donation Prediction
+* RFM analysis
+* Shell to Interact with data
+* TPOT
+* Log Normalizing data
+
 ### Darwin Book Recommendations
 * Tokenize/ Stemming
 * tf-idf
@@ -30,7 +39,5 @@
 * Basic subsetting
 
 
-
-#### Each project has an associated README.md file for the highlights of that project.
 
 Feel free to reach out for any questions or concerns.
