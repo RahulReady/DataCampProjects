@@ -1,19 +1,26 @@
 # DataCampProjects
-
-
-
+Each project has an associated README.md file for the highlights of that project.
+Feel free to reach out for any questions or concerns.
 ## Project and high level topics covered
+### Reducing Traffic Mortality in the U.S
+* Basic linux command
+* Pairplots
+* Pearson Correlation
+* Multi-variate linear regression
+* Masking Relationship
+* Principal Component Analysis
+* Scaling data
+* K-means clustering
 
-#### Each project has an associated README.md file for the highlights of that project.
 
-## Bad Passwords
-* Basic Column manipulation:
-* Reading text file as Series:
-* isin() method:
-* Regular Expressions:
+### Bad Passwords
+* Basic Column manipulation
+* Reading text file as Series
+* isin() method
+* Regular Expressions
 
 
-## Blood Donation Prediction
+### Blood Donation Prediction
 * RFM analysis
 * Shell to Interact with data
 * TPOT
@@ -44,7 +51,3 @@
 * Basic visualizations: histograms, scatterplots, subplots
 * Basic analysis using scatterplot regression
 * Basic subsetting
-
-
-
-Feel free to reach out for any questions or concerns.
