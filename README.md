@@ -3,6 +3,9 @@ Each project has an associated README.md file for the highlights of that project
 Feel free to reach out for any questions or concerns.
 ## Project and high level topics covered
 
+### Do Left handed people die younger than right handed people?
+* Bayes Theorem
+
 ### ASL Recognition with Deep Learning
 * TensorFlow/ Keras
 * Visualizing image pixel data
