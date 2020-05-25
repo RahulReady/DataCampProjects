@@ -3,6 +3,12 @@ Each project has an associated README.md file for the highlights of that project
 Feel free to reach out for any questions or concerns.
 ## Project and high level topics covered
 
+### Word Frequency Analysis of Moby Dick
+* Natural Language Tool kit (nltk)
+* Requests
+* Beautiful Soup
+* Tokenizing
+
 ### Do Left handed people die younger than right handed people?
 * Bayes Theorem
 
