@@ -3,6 +3,12 @@ Each project has an associated README.md file for the highlights of that project
 Feel free to reach out for any questions or concerns.
 ## Project and high level topics covered
 
+### Credit Card Applications 
+* Missing Value Treatment
+* Min-Max Scaler
+* Confusion Matrices
+* GridSearch
+
 ### Word Frequency Analysis of Moby Dick
 * Natural Language Tool kit (nltk)
 * Requests
