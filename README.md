@@ -74,3 +74,6 @@ Feel free to reach out for any questions or concerns.
 * Basic visualizations: histograms, scatterplots, subplots
 * Basic analysis using scatterplot regression
 * Basic subsetting
+
+
+*Note - These projects were completed on Datacamp and transfered here
